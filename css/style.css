@@ -2,9 +2,12 @@ html{
     background-color: antiquewhite;
 } 
 
-h1{
+#title{
     background-color: beige;
+    text-align: center;
 }
+
 img{
     border:5px solid black;
+    text-align: center;
 }
